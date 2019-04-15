@@ -1,2 +1,12 @@
 Base path: D:/LearnAbout/Unity5.6f/Editor/Data
 Cmd: initializeCompiler
+Cmd: preprocess
+  error: 1 plat 20 at (7): Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation.
+  error: 1 plat 20 at (9): Unrecognized #pragma directive: 
+  insize=315 outsize=132 ok=1
+Cmd: preprocess
+  insize=328 outsize=132 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=536 outsize=538 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=536 outsize=182 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME ok=1
