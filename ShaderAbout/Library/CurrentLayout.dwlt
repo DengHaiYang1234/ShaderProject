@@ -369,7 +369,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Shaders/Shader_1
+    - Assets/Shaders/ShaderTest_2
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -380,7 +380,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 50260000
     m_LastClickedID: 9808
-    m_ExpandedIDs: 00000000c6240000f22400001025000028250000
+    m_ExpandedIDs: 00000000c8240000f4240000122500002a250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -408,18 +408,18 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c6240000f22400001025000028250000
+    m_ExpandedIDs: 00000000c8240000f424000012250000202500002a250000c4250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Chapter5-SSimpleShader
-      m_OriginalName: Chapter5-SSimpleShader
+      m_Name: Chapter5-FalseShader
+      m_OriginalName: Chapter5-FalseShader
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 318
+      m_UserData: 9642
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -524,9 +524,9 @@ MonoBehaviour:
     height: 966
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 10250000
+    m_SelectedIDs: a28affff
     m_LastClickedID: 0
-    m_ExpandedIDs: e6fbffff00000000
+    m_ExpandedIDs: d48bffffe68cffff189cffffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -545,7 +545,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
   m_ExpandedScenes:
-  - ShaderTest_1
+  - ShaderTest_2
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -576,14 +576,14 @@ MonoBehaviour:
     width: 1112
     height: 200
   m_SceneLighting: 1
-  lastFramingTime: 1983.163485492203
+  lastFramingTime: 5442.524463743872
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -0.33049822, y: 0.54531586, z: 0.6125982}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: -0.33049822, y: 0.54531586, z: 0.6125982}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -606,13 +606,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: 0.05929399, y: 0.9220445, z: -0.15667091, w: 0.34895906}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: 0.05929399, y: 0.9220445, z: -0.15667091, w: 0.34895906}
   m_Size:
-    m_Target: 10
+    m_Target: 2.145683
     speed: 2
-    m_Value: 10
+    m_Value: 2.145683
   m_Ortho:
     m_Target: 0
     speed: 2
