@@ -1,7 +1,7 @@
 ﻿// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "Unity Shaders Book/ Chapter 5/Single Texture"
+Shader "Unity Shaders Book/ Chapter 7/Single Texture"
 {
 	Properties
 	{
@@ -93,7 +93,7 @@ Shader "Unity Shaders Book/ Chapter 5/Single Texture"
 				fixed3 ambient = UNITY_LIGHTMODEL_AMBIENT.xyz * albedo;
 				//计算漫反射
 				fixed3 diffuse = _LightColor0.rgb * albedo * max(0,dot(worldNormal,worldLightDir));
-				//输入一个模型空间中的顶点位置，返回模型空间中从该点到摄像机的观察方向,没有被归一化
+				//输入一个模型空间中的顶点位置，返回模型空间中从该点到摄像机的观察方向,没有被归一化(视角方向)
 				fixed3 viewDir = normalize(UnityWorldSpaceViewDir(i.worldPos));
 
 				fixed3 halfDir = normalize(worldLightDir + viewDir);
