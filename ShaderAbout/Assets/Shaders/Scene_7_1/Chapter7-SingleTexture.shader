@@ -78,7 +78,7 @@ Shader "Unity Shaders Book/ Chapter 7/Single Texture"
 				return o;
 			}
 
-
+			
 			fixed4 frag(v2f i) : SV_Target
 			{
 				//世界空间下的法线方向
