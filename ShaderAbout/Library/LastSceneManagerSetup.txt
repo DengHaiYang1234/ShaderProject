@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Blur.unity
+- path: Assets/AmplifyShaderEditor/Examples/Official/WorldPosSLices/WorldPosSlices.unity
   isLoaded: 1
   isActive: 1
