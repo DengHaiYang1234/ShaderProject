@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AmplifyShaderEditor/Examples/Official/WorldPosSLices/WorldPosSlices.unity
+- path: "Assets/MyTest/2D\u626D\u66F2/Main.unity"
   isLoaded: 1
   isActive: 1
