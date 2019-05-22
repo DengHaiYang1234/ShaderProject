@@ -55,7 +55,7 @@
 				//距离公式
 				float distance = sqrt(dot(dt,dt));
 				//旋转θ
-				float theta = -distance * _RotScale;
+				float theta = - distance * _RotScale;
 				//绕y轴旋转矩阵
 				float2x2 rota = 
 				{
